@@ -28,19 +28,28 @@ and soldering related equipment-
 
 Step 2-
 
+Take the pcb and solder the resistor first. The resistor aren't directional
+![20180928_194122](https://user-images.githubusercontent.com/9293705/46609816-dff7f880-cabd-11e8-9e83-9cfece809fb1.jpg)
 
 
 Step 3-
+Solder LEDs in the direction shown below-
+![dog](https://user-images.githubusercontent.com/9293705/46609943-39602780-cabe-11e8-98e1-6498f9f45d8e.jpg)
 
 
-Step 4-
-
-
-Step 5-
+Step 4 & 5-
+Solder battery holder and switch
+![20180928_194804](https://user-images.githubusercontent.com/9293705/46610017-5eed3100-cabe-11e8-9d54-91216834ece7.jpg)
 
 
 Step 6-
+Test the badge by sliding in the battery
+![20180928_194851](https://user-images.githubusercontent.com/9293705/46610105-9bb92800-cabe-11e8-8f37-0d392637d1bc.jpg)
 
 
 Step 7-
+Solder clutch pin back
+![20180928_195022](https://user-images.githubusercontent.com/9293705/46610172-cd31f380-cabe-11e8-91dd-f06daaa66568.jpg)
+
+Remove extra flux from pcb using q-tip & alchohol. 
 
