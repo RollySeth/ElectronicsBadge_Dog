@@ -17,7 +17,7 @@ To make a LED badge with basic through-hole components
 6. [Clutch Tie-Tack Pin Back](https://www.amazon.com/gp/product/B0759PMB12/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) (pin size -4.5 mm in diameter) (One)
 
 
-Steps-
+Steps to solder-
 
 Step 1- 
 Make sure you have all the parts-
@@ -25,3 +25,22 @@ Make sure you have all the parts-
 
 and soldering related equipment-
 ![equipment](https://user-images.githubusercontent.com/9293705/46604088-e4b2b180-caa9-11e8-815c-aa7beda94b09.png)
+
+Step 2-
+
+
+
+Step 3-
+
+
+Step 4-
+
+
+Step 5-
+
+
+Step 6-
+
+
+Step 7-
+
